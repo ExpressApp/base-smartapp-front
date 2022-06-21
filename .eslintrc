@@ -1,0 +1,8 @@
+{
+  "extends": ["react-app"],
+  "rules": {
+    "semi": [2, "never"],
+    "max-len": ["error", 120, { "ignoreStrings": true }],
+    "no-unused-vars": 2
+  }
+}
